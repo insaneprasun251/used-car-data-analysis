@@ -6,4 +6,3 @@ This project analyzes a dataset of used cars to explore pricing patterns, mileag
 ## 📂 Structure
 ├── used_car_data_analysis.ipynb # Main analysis notebook
 ├── README.md # Project documentation
-└── data/ # (Optional) Dataset folder
